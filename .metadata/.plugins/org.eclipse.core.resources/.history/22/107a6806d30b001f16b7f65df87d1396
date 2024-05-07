@@ -1,0 +1,7 @@
+package Class;
+
+public class SmartTv {
+	public boolean ligada = false;
+	public int canal = 1;
+	public int volume = 25;
+}

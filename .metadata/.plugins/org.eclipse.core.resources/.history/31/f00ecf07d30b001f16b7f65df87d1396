@@ -1,0 +1,16 @@
+package Class;
+
+public class SmartTv {
+	public boolean ligada = false;
+	public int canal = 1;
+	public int volume = 25;
+	
+	public void ligar() {
+		ligada = true;
+		
+	}
+	
+	public void desligada() {
+		ligada = false
+	}
+}
